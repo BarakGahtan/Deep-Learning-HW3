@@ -1,0 +1,9 @@
+*** SLURM BATCH JOB 'test_job' STARTING ***
+*** Activating environment cs236781-hw ***
+[NbConvertApp] Converting notebook Part3_GAN.ipynb to notebook
+[NbConvertApp] Executing notebook with kernel: python3
+[NbConvertApp] Writing 8219116 bytes to Part3_GAN.ipynb
+>> Running 1 notebooks...
+>> Running nbconvert on notebook Part3_GAN.ipynb [execute|inplace]
+>> Finished nbconvert on notebook Part3_GAN.ipynb, elapsed=670.586s
+*** SLURM BATCH JOB 'test_job' DONE ***

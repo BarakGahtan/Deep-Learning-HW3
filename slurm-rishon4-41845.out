@@ -1,0 +1,10 @@
+*** SLURM BATCH JOB 'test_job' STARTING ***
+*** Activating environment cs236781-hw ***
+[NbConvertApp] Converting notebook Part2_VAE.ipynb to notebook
+[NbConvertApp] Executing notebook with kernel: python3
+[NbConvertApp] WARNING | Timeout waiting for IOPub output
+[NbConvertApp] Writing 879825 bytes to Part2_VAE.ipynb
+>> Running 1 notebooks...
+>> Running nbconvert on notebook Part2_VAE.ipynb [execute|inplace]
+>> Finished nbconvert on notebook Part2_VAE.ipynb, elapsed=1429.901s
+*** SLURM BATCH JOB 'test_job' DONE ***
